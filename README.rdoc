@@ -1,1 +1,3 @@
-bitmask_attributes has been moved to http://github.com/amiel/has_bitmask_attributes
+bitmask_attributes has been moved to http://github.com/amiel/bitmasker
+
+This repository will be left to accomidate bundler git references.
